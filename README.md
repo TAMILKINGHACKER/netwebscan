@@ -51,7 +51,7 @@ netwebscan/
 
 1. Clone the repository
 
-git clone https://github.com/your-username/netwebscan.git
+git clone https://github.com/TAMILKINGHACKER/netwebscan
 cd netwebscan
 
 2. Install requirements
@@ -119,9 +119,9 @@ This tool is developed for educational and authorized security testing purposes 
 
 👨‍💻 Author
 
-Krishnamoorthy GB.E. Cyber SecurityDhanalakshmi Srinivasan College of Engineering and Technology
+Krishnamoorthy G B.E. Cyber SecurityDhanalakshmi Srinivasan College of Engineering and Technology
 
-GitHub: your-username
+GitHub: TAMILKINGHACKER
 
 📜 License
 
@@ -133,5 +133,5 @@ ASCII art by pyfiglet
 
 Built-in tools: socket, threading, argparse, os, etc.
 
-Happy scanning, da Macha! 🕵️‍♂️💻
+Happy scanning🕵️‍♂️💻
 
