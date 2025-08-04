@@ -1,0 +1,11 @@
+vpn.google.com,64.9.224.70
+ns1.google.com,216.239.32.10
+ns2.google.com,216.239.34.10
+www.google.com,142.251.222.196
+m.google.com,172.217.24.11
+admin.google.com,142.250.66.14
+mail.google.com,142.250.206.5
+blog.google.com,142.251.222.201
+shop.google.com,64.233.170.92
+api.google.com,142.251.43.132
+mobile.google.com,172.217.24.11

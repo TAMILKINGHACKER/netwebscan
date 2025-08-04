@@ -1,0 +1,7 @@
+portal.google.com
+dev.google.com
+cpanel.google.com
+test.google.com
+cdn.google.com
+webmail.google.com
+ftp.google.com
